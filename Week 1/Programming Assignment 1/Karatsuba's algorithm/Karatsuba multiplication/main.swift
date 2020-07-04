@@ -8,8 +8,8 @@
 
 import Foundation
 
-let num1 = 2434348955
-let num2 = 3678578859
+let num1 = 5678
+let num2 = 1234
 
 Runner.runKaratsubaMultiply(for: num1, and: num2)
 
